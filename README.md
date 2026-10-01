@@ -2,7 +2,7 @@
 
 Landing page for the project **«Інтегрована відповідь у сфері захисту та підтримки вразливих груп населення в громадах Сумської області»** (Integrated protection response and support for vulnerable groups in communities of Sumy Oblast), implemented by БО «Мережа 100 відсотків життя Рівне» as an implementing partner of IOM Ukraine, funded by the German Federal Ministry for Economic Cooperation and Development through KfW.
 
-**Live:** https://franzvill.github.io/sumy-protection-landing/
+**Live:** https://sumy-protection-landing.vercel.app
 
 ## Structure
 
@@ -25,7 +25,7 @@ python3 -m http.server 8000
 
 ## Deployment
 
-GitHub Pages serves the site from the root of the `main` branch. Every push to `main` deploys automatically.
+Hosted on [Vercel](https://vercel.com). The project is connected to this GitHub repo, so every push to `main` deploys to production automatically.
 
 ## Credits
 
